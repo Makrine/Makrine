@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Makrine
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning basic game development principles by making games with Python
-- 💞️ I’m planning to move to game engines soon
+- :rocket: I’m planning to move to game engines soon
 - 📫 How to reach me: email me at tmakrine@gmail.com
 
 <!---
