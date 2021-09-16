@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Makrine
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning basic game development principles by making games with Python
-- :rocket: I’m planning to move to game engines soon
+- 🌱 I used GameMaker when I was a kid and recently I was using Pygame and made [Space Runner](https://github.com/Makrine/SpaceRunner)
+- :rocket: I’ve now moved to Unity and am learning it!
 - 📫 How to reach me: email me at tmakrine@gmail.com
 
 <!---
